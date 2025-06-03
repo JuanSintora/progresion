@@ -3,4 +3,4 @@ Nuevo curso
 
 Mí primer push
 
-errando forzados
+forzando error
